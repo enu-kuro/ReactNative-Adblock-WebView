@@ -1,0 +1,30 @@
+{
+  "parser": "babel-eslint",
+  "plugins": [
+    "react"
+  ],
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "globals": {
+    "__DEV__": true,
+    "__SERVER__": true,
+    "mixpanel": true,
+    "React": true
+  },
+  "ecmaFeatures": {
+    "jsx": true
+  },
+  "rules": {
+    // Strict mode
+    "strict": [2, "never"],
+
+    // Code style
+    "indent": [2, 2],
+    "quotes": [2, "single"],
+    "new-cap" : 0,
+    "no-underscore-dangle": 0
+  }
+}

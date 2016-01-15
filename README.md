@@ -15,7 +15,7 @@ Open the iOS sub-project in Xcode, choose a simulator and run the project.
 
 ## run the project on a device
 ```
-npm run bundle
+sh build_ios.sh
 ```
 
 Edit AppDelegate.m (read instructions and change "jsCodeLocation")

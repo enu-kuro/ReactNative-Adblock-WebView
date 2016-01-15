@@ -22,3 +22,5 @@ Edit AppDelegate.m (read instructions and change "jsCodeLocation")
 
 Open the iOS sub-project in Xcode, choose a device and run the project.
 
+- Adblock Webview gif  
+![Alt Text](https://github.com/enu-kuro/ReactNative-Adblock-WebView/blob/master/adblock_webview.gif)
